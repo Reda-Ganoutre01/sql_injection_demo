@@ -127,6 +127,4 @@ Si vous voulez que je :
 
 dites lequel et je m'en occupe.
 
----
 
-Auteur : projet de démonstration (fichiers modifiés pour la démo locale)
